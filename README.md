@@ -10,5 +10,5 @@
 ### Frontend: React Native / Next.js
 ### Backend/AI: Python (GraphRAG, FAISS, PyTorch, NetworkX)
 ### LLM: AirLLM or quantized open models
-###Standards: FHIR for interoperability
+### Standards: FHIR for interoperability
 ### Privacy Principle: No cloud sync in MVP; data stays on-device.
